@@ -65,7 +65,7 @@ categories: 技术运营工作周报
 
 6. 产品及项目研发
 
-    1.XXXXXXX；
+    1.流程指派；
 
     2.XXXXXXX；
 
